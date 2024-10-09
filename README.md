@@ -6,4 +6,4 @@
 <br>
 -CSS</h2>
 <br>
-<img src"https://github.com/RobertoLima84/Easy-Shopping-Via-Mobile/blob/main/img/Captura%20de%20Tela%20(264).png?raw=true"/>
+<img src"https://github.com/RobertoLima84/Easy-Shopping-Via-Mobile/blob/main/img/imagem-do-site.png?raw=true"/>
